@@ -1,0 +1,41 @@
+"921570"
+{
+	"ChangeNumber"		"212"
+	"OSType"		"0"
+	"My Games/Octopath_Traveler/76561198146774432/SaveGames/SystemData.sav"
+	{
+		"root"		"2"
+		"size"		"22302"
+		"localtime"		"1789051259"
+		"time"		"1789051258"
+		"remotetime"		"0"
+		"sha"		"82020fef48c23aa82e66664aaa4a2d08f57a575f"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Octopath_Traveler/76561198146774432/SaveGames/SaveData0.sav"
+	{
+		"root"		"2"
+		"size"		"2148574"
+		"localtime"		"1789051250"
+		"time"		"1789051249"
+		"remotetime"		"0"
+		"sha"		"dd377db84bdc49c8cecf1e9250db1251d00513f5"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+	"My Games/Octopath_Traveler/76561198146774432/SaveGames/SaveData1.sav"
+	{
+		"root"		"2"
+		"size"		"2148427"
+		"localtime"		"1789051259"
+		"time"		"1789051258"
+		"remotetime"		"0"
+		"sha"		"7bba112db64ecae7fb5a4098c50a10271fc3654c"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"1"
+	}
+}
